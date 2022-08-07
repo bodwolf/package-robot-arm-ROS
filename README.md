@@ -2,13 +2,16 @@
 
 # need before
 1-install  virtualbox
+
 2-install  ubuntu
+
 3-install  ROS
 
 
 
 
-# first step
+
+#  steps
 1-open virtualbox and use ubuntu
 
 ![image](https://user-images.githubusercontent.com/107868423/183302425-5d3cd258-704c-4301-99ea-bb020f197c1e.png)
